@@ -94,7 +94,7 @@
                                 <div class="copyright-social">
                                     <ul class="social">
                                         <li><a href="https://find-and-update.company-information.service.gov.uk/company/12953991" target="_blank"><i class="fas fa-crown"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                             <!--            <li><a href="#"><i class="fab fa-instagram"></i></a></li> -->
                                         <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>

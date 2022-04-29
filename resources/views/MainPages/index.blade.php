@@ -224,7 +224,7 @@
                             <div class="col-lg-7">
                                 <!--  Skill Content Right Start -->
                                 <div class="skill-content-right">
-                                    <h3 class="title">Accelerate innovation with world-class tech teams We’ll match you to an entire remote technology</h3>
+                                    <h3 class="title">Innovation will be boosted with our world-class technology teams and the worldwide remote technology platform we offer.</h3>
                                     <div class="skill-bar-wrap">
                                         <!--  Skill Item Start  -->
                                         <div class="skill-item">
